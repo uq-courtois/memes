@@ -1,3 +1,5 @@
+# Credit: adapted from https://gist.github.com/eLtronicsVilla/b089a0134193524f208e88a811c0f88d
+
 import cv2
 import numpy as np
 import os
